@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=acharab.acharab&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Grafisch Lyceum Rotterdam 🏛. I am **17** years old, and love to learn everything there is to know about development 💡. I love React/Nextjs, Tailwind, CSS and Javascript but those are not the only skills that i know ✨. 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on opensource project 🤓.
+I'm a student in Computer Science 🎓 from Grafisch Lyceum Rotterdam 🏛. I am **17** years old, and love to learn everything there is to know about development 💡. I love **React/Nextjs**, **Tailwind**, CSS and Javascript but those are not the only skills that i know ✨. 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on **open source** project 🤓.
 
 Joined Github **2** years ago.
 
@@ -14,8 +14,8 @@ Joined Github **2** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React, Nextjs, Tailwind, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working NextJs, TailwindCSS, Strapi, etc.
+- 🚀 &nbsp; I’m currently learning DevOps and backend developmentt.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Acharab).
 - 👾 &nbsp; Fun fact: Holland is not a country.
 - 📫 &nbsp; How to reach me: achraf.aarab@outlook.com.
@@ -24,8 +24,8 @@ Joined Github **2** years ago.
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to help the open source community and contribute to it's expension.
-- 📰 &nbsp; Helping people start with coding.
-- 🍕 &nbsp; I love pizza.
+- 👨‍💻 &nbsp; I love NextJs and TailwindCSS it's just too easy.
+- 🍕 &nbsp; I love to cook and you can always wake me up for lasagne.
 
 ### Languages and Tools:
 
@@ -127,5 +127,6 @@ Joined Github **2** years ago.
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+	
 
 </div>
