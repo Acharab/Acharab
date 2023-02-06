@@ -19,7 +19,7 @@ Joined Github **2** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Acharab).
 - 👾 &nbsp; Fun fact: Holland is not a country.
 - 📫 &nbsp; How to reach me: achraf.aarab@outlook.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://resume.io/r/gQh5qizDr).
 
 ### My Absolute Favorites:
 
