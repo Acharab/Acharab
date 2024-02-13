@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=acharab.acharab&style=flat-square&color=0088cc)
 
-I'm a student in Computer Science 🎓 from Grafisch Lyceum Rotterdam 🏛. I am **17** years old, and love to learn everything there is to know about development 💡. I love **React/Nextjs**, **Tailwind**, CSS and Javascript but those are not the only skills that i know ✨. 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on **open source** project 🤓.
+I'm a student in Computer Science 🎓 from Grafisch Lyceum Rotterdam 🏛. I am **18** years old, and love to learn everything there is to know about development 💡. I love **React/Nextjs**, **Tailwind**, CSS and Javascript but those are not the only skills that i know ✨. 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on **open source** project 🤓.
 
 Joined Github **2** years ago.
 
