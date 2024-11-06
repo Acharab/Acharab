@@ -14,8 +14,8 @@ Joined Github **2** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working NextJs, TailwindCSS, Strapi, etc.
-- 🚀 &nbsp; I’m currently learning DevOps and backend developmentt.
+- 🛠 &nbsp; I’m currently working with NextJs, TailwindCSS, Strapi, etc.
+- 🚀 &nbsp; I’m currently learning DevOps and backend development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Acharab).
 - 👾 &nbsp; Fun fact: Holland is not a country.
 - 📫 &nbsp; How to reach me: achraf.aarab@outlook.com.
