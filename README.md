@@ -46,4 +46,4 @@ Version Control:
 
 <div align="center">
 	
-&nbsp;Big thanks for [Aditya](https://github.com/AVS1508) ❤️ for the tempate!\
+&nbsp;Big thanks for [Aditya](https://github.com/AVS1508) ❤️ for the tempate!
