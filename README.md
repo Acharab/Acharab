@@ -1,7 +1,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Achraf -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-I'm Achraf Aarab, a 19-year-old Computer Science student at Hogeschool Rotterdam.
+I'm Achraf Aarab, a 20-year-old Computer Science student at Hogeschool Rotterdam.
 
 💡 &nbsp;I’m passionate about free and open-source software (FOSS) and actively support the open-source community.\
 🎓 &nbsp;Currently, I’m focusing on Web Developemt, Backend Developement, and Mobile Developemnt as part of my studies.\
