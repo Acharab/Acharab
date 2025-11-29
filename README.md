@@ -34,13 +34,8 @@ Version Control:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
-<p style="display: flex;">
-<a href="https://github.com/Acharab">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Acharab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Acharab&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### ⚙️ &nbsp;GitHub Analytics
+![Views](https://komarev.com/ghpvc/?username=your-github-Acharab&color=fd78c4)
 
 <div align="center">
 	
