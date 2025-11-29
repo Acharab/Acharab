@@ -4,7 +4,7 @@
 I'm Achraf Aarab, a 20-year-old Computer Science student at Hogeschool Rotterdam.
 
 💡 &nbsp;I’m passionate about free and open-source software (FOSS) and actively support the open-source community.\
-🎓 &nbsp;Currently, I’m focusing on Web Developemt, Backend Developement, and Mobile Developemnt as part of my studies.\
+🎓 &nbsp;Currently, I’m focusing on Full stack Developement, and Security as part of my studies.\
 💼 &nbsp;I work at Concentrix and collaborate with [Bol.](https://bol.com) on various projects.\
 🍝 &nbsp;When I'm not coding, you’ll probably find me enjoying a delicious plate of lasagne!\
 📄 &nbsp;Please have a look at my [Resume](https://resume.io/r/gQh5qizDr) for more details about me. I'm open to feedback and suggestions!
