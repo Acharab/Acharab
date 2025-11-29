@@ -34,8 +34,6 @@ Version Control:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-![Views](https://komarev.com/ghpvc/?username=your-github-Acharab&color=fd78c4)
 
 <p style="display: flex;">
 <a href="https://github.com/Acharab">
