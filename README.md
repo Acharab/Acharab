@@ -1,5 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Achraf+Aarab;Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Advocate)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Achraf+Aarab;Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -63,6 +63,7 @@
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27.">⬜</a>
   </h2>
 </div>
+
 ---
 
 ### 🛡️ Cyber Security & Tech Arsenal
