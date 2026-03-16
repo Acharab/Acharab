@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Achraf+Aarab+👋;Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Achraf+Aarab+👋;Full+Stack+Developer+💻;Cyber+Security+Enthusiast+🔐;Open+Source+Advocate+🌍)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
@@ -48,26 +46,22 @@
 ---
 
 ### 🎮 Let's Play Tic-Tac-Toe!
-> Click on a blank square below to make your move! It will open an issue—just click "Submit new issue" and wait a few seconds for the board to update.
+> Click on a blank square (⬜) below to make your move! It will open an issue—just click "Submit new issue" and wait about **15-30 seconds**. Refresh the page to see your move!
 
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C0&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C2&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C3&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C4&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C5&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C6&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C7&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
-    </tr>
-  </table>
+  <h2>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C0&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C2&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <br>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C3&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C4&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C5&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <br>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C6&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C7&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+  </h2>
 </div>
 ---
 
