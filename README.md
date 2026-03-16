@@ -51,20 +51,19 @@
 <!-- TIC-TAC-TOE-START -->
 <div align="center">
   <h2>
-    <a href="#">❌</a>
-    <a href="#">❌</a>
-    <a href="#">❌</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C0&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C2&body=Just+click+%27Submit+new+issue%27.">⬜</a>
     <br>
-    <a href="#">⬜</a>
-    <a href="#">⬜</a>
-    <a href="#">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C3&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C4&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C5&body=Just+click+%27Submit+new+issue%27.">⬜</a>
     <br>
-    <a href="#">⬜</a>
-    <a href="#">⭕</a>
-    <a href="#">⭕</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C6&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C7&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27.">⬜</a>
   </h2>
 </div>
-<p align='center'>**❌ wins!** Click <a href='https://github.com/Acharab/Acharab/issues/new?title=ttt%7Creset&body=Submit+to+reset'>here</a> to play again.</p>
 <!-- TIC-TAC-TOE-END -->
 
 ---
