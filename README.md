@@ -1,19 +1,3 @@
-
-<div align="center">
-  <h2>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C0&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C2&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <br>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C3&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C4&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C5&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <br>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C6&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C7&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-  </h2>
-</div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Achraf+Aarab;Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
 </div>
@@ -64,6 +48,7 @@
 ### 🎮 Let's Play Tic-Tac-Toe!
 > Click on a blank square (⬜) below to make your move! It will open an issue—just click "Submit new issue" and wait about **15-30 seconds**. Refresh the page to see your move!
 
+<!-- TIC-TAC-TOE-START -->
 <div align="center">
   <h2>
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C0&body=Just+click+%27Submit+new+issue%27.">⬜</a>
@@ -79,6 +64,8 @@
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27.">⬜</a>
   </h2>
 </div>
+<!-- TIC-TAC-TOE-END -->
+
 ---
 
 ### 🛡️ Cyber Security & Tech Arsenal
