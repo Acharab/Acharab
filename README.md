@@ -51,7 +51,7 @@
 <!-- TIC-TAC-TOE-START -->
 <div align="center">
   <h2>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C0&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="#">❌</a>
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27.">⬜</a>
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C2&body=Just+click+%27Submit+new+issue%27.">⬜</a>
     <br>
@@ -61,7 +61,7 @@
     <br>
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C6&body=Just+click+%27Submit+new+issue%27.">⬜</a>
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C7&body=Just+click+%27Submit+new+issue%27.">⬜</a>
-    <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27.">⬜</a>
+    <a href="#">⭕</a>
   </h2>
 </div>
 <!-- TIC-TAC-TOE-END -->
