@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://acharab.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Achraf Aarab Portfolio" /></a>
   <a href="https://linkedin.com/in/achraf-aarab-529923219"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="mailto:achraf.aarab@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
 </p>
 
 ---
@@ -63,7 +63,6 @@
     <a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27.">⬜</a>
   </h2>
 </div>
-
 ---
 
 ### 🛡️ Cyber Security & Tech Arsenal
