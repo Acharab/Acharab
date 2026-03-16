@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Achraf+Aarab+👋;Full+Stack+Developer+💻;Cyber+Security+Enthusiast+🔐;Open+Source+Advocate+🌍;Lasagne+Lover+🍝" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Achraf+Aarab+👋;Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,6 @@
   <a href="https://acharab.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Achraf Aarab Portfolio" /></a>
   <a href="https://linkedin.com/in/achraf-aarab-529923219"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
-  <a href="https://discord.com/users/Acharab"><img src="https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
@@ -28,11 +27,6 @@
 * 💻 Building secure, robust apps and actively supporting **FOSS**.
 * 📍 Based in **Rotterdam, Netherlands**.
 * 🍝 Fueled entirely by coding and plates of **lasagne**.
-
-### 🎧 Currently Listening To
-<a href="https://open.spotify.com/user/Acharab">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=tokyonight&bar_color=53b14f&bar_color_cover=false" alt="Spotify Currently Playing" />
-</a>
 
   </td>
     <td width="50%" valign="top" align="center">
@@ -53,9 +47,31 @@
 
 ---
 
-### 🛡️ Cyber Security & Tech Arsenal
+### 🎮 Let's Play Tic-Tac-Toe!
+> Click on a blank square below to make your move! It will open an issue—just click "Submit new issue" and wait a few seconds for the board to update.
 
-I rely on these tools and languages to build full-stack applications and analyze security vulnerabilities:
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C0&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C1&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C2&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C3&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C4&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C5&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C6&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C7&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+      <td><a href="https://github.com/Acharab/Acharab/issues/new?title=ttt%7C8&body=Just+click+%27Submit+new+issue%27."><img src="https://raw.githubusercontent.com/Acharab/Acharab/main/images/blank.png" width="50" height="50"></a></td>
+    </tr>
+  </table>
+</div>
+---
+
+### 🛡️ Cyber Security & Tech Arsenal
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -88,7 +104,7 @@ I rely on these tools and languages to build full-stack applications and analyze
 
 ---
 
-### 🐍 Contribution Activity (Snake)
+### 🐍 Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acharab/Acharab/output/github-contribution-grid-snake-dark.svg">
