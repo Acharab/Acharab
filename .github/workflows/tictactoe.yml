@@ -1,0 +1,39 @@
+name: Play Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'ttt|')
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      # This downloads a pre-built Python script designed specifically to play GitHub README Tic-Tac-Toe
+      - name: Download Game Engine
+        run: curl -O https://raw.githubusercontent.com/Acharab/Acharab/main/play_game.py || echo "Need script"
+
+      - name: Run Game Logic
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          # The Python script runs here, calculates the move, and updates the README
+          python play_game.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Tic-Tac-Toe Board" || exit 0
+          git push
