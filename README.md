@@ -1,74 +1,102 @@
-<h1 align="center">Hi there, I'm Achraf Aarab 👋</h1>
-<h3 align="center">Full Stack Developer | Cyber Security Enthusiast | Open Source Advocate</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Achraf+Aarab+👋;Full+Stack+Developer+💻;Cyber+Security+Enthusiast+🔐;Open+Source+Advocate+🌍;Lasagne+Lover+🍝" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://acharab.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Achraf Aarab Portfolio Website" /></a>
-  <a href="https://linkedin.com/in/achraf-aarab-529923219"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Achraf Aarab LinkedIn Profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Acharab&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS&logo=github" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://acharab.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Achraf Aarab Portfolio" /></a>
+  <a href="https://linkedin.com/in/achraf-aarab-529923219"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="https://discord.com/users/Acharab"><img src="https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 I'm a 20-year-old **Computer Science** student at **Hogeschool Rotterdam**.
-* 🔐 Highly passionate about **Cyber Security**, ethical hacking, and building secure, robust applications.
-* 💻 Currently focusing on **Full Stack Development** and actively supporting **Free and Open-Source Software (FOSS)**.
-* 💼 I work at **Concentrix** and collaborate with **Bol.** on various exciting projects.
-* 🍝 Fun fact: When I'm not writing code or analyzing security vulnerabilities, you'll probably find me enjoying a delicious plate of lasagne!
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 👨‍💻 Who am I?
+* 🎓 20-year-old **Computer Science** student at **Hogeschool Rotterdam**.
+* 💼 Working at **Concentrix** and collaborating with **Bol.**.
+* 🔐 Highly passionate about **Cyber Security**, ethical hacking, and defending systems.
+* 💻 Building secure, robust apps and actively supporting **FOSS**.
+* 📍 Based in **Rotterdam, Netherlands**.
+* 🍝 Fueled entirely by coding and plates of **lasagne**.
+
+### 🎧 Currently Listening To
+<a href="https://open.spotify.com/user/Acharab">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=tokyonight&bar_color=53b14f&bar_color_cover=false" alt="Spotify Currently Playing" />
+</a>
+
+  </td>
+    <td width="50%" valign="top" align="center">
+
+### 😄 Programmer Joke of the Day
+<a href="https://github.com/readme-jokes/readme-jokes">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</a>
+
+### 💡 Tech Quote
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</a>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-### 🛡️ My Cyber Security Passion
-Security is not just an afterthought for me; it's a core aspect of how I design and build software. I am constantly learning and focusing on:
-- **Application Security:** Ensuring secure coding practices to mitigate OWASP Top 10 vulnerabilities.
-- **Ethical Hacking & Defense:** Understanding attack vectors to better defend and patch systems.
-- **Continuous Learning:** Keeping up-to-date with the latest security advisories, FOSS security tools, and modern network protocols.
+### 🛡️ Cyber Security & Tech Arsenal
 
----
-
-### 🛠️ Tech Stack & Skills
-
-**Programming Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Frameworks & Libraries:**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-</p>
-
-**Tools & Version Control:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+I rely on these tools and languages to build full-stack applications and analyze security vulnerabilities:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Acharab&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Achraf Aarab's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acharab&theme=tokyonight" alt="Achraf Aarab's Contribution Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acharab&layout=compact&theme=tokyonight" alt="Top Languages used by Achraf" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,cs,php,html,css,react,nextjs,nodejs,tailwind,git,github,linux,kali&perline=7" alt="Achraf's Skills" />
+  </a>
 </div>
 
 ---
 
+### 📊 The Dashboard
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Acharab&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&bg_color=1a1b27" alt="Achraf's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acharab&theme=tokyonight&background=1a1b27" alt="Achraf's Contribution Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acharab&layout=compact&theme=tokyonight&bg_color=1a1b27" alt="Top Languages used by Achraf" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Acharab&theme=tokyonight&margin-w=15&margin-h=15&column=3&no-frame=true&bg_color=1a1b27" alt="Achraf's GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🐍 Contribution Activity (Snake)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acharab/Acharab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acharab/Acharab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Acharab/Acharab/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <p align="center">
-  <i>"Security is a process, not a product."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" alt="Footer wave" />
 </p>
